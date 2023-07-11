@@ -1,0 +1,19 @@
+ATMega328P Microcontroller
+Breadboard
+12V, 1.5A Switch-mode Power Adapter
+MPLAB SNAP Debugger/Programmer
+SNAP Adapter Board
+Geekcreit 1602 Character LCD Display 
+Potentiometer (10kiloohms), multi-turn, top adjustable
+Tricolour LED
+Omron B3F-400 Pushbutton Switch
+Piezo Buzzer
+7805 Linear Voltage Regulator
+14.7456 MHz Crystal Oscillator
+3 470 ohm resistors
+2 47 uF capacitors
+2 10nF capacitors
+
+
+
+folders with datasheets for each part?
