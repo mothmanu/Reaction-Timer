@@ -12,6 +12,6 @@ Piezo Buzzer
 14.7456 MHz Crystal Oscillator
 3 470 ohm resistors
 2 47 uF capacitors
-1 10nF capacitor
+1 10uF capacitor
 2 22pF capacitors
 
